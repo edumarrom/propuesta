@@ -19,8 +19,6 @@ Ofrecer un espacio de aprendizaje para usuarios interesados en obtener conocimie
 
 # Elemento de innovación
 
-Como elementos de innovación vamos a usar varias tecnologías que nos ayudarán a desarrollar nuestro proyecto:
-
 - Laravel 10: Es un framework para aplicaciones webs escrito en PHP y basado en el patrón MVC con el que relizaremos nuestra aplicación.
 - Livewire: Es un framework para desarrollar el apartado frontend de nuestra aplicación en Laravel, permitiendo crear componentes dinámicos que podremos incluir a nuestras vistas para aportar interactividad.
 - Jetstream: Se rata de un "starter kit" de Laravel, similar a Breeze, que mediante Tailwind CSS y Livewire nos brinda un punto de partida para desarrollar nuestra aplicación.
